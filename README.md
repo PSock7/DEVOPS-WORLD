@@ -484,6 +484,8 @@ Follow the Roadmap:
 
 - [Python Tutorial - Python Full Course for Beginners - FREE](https://youtu.be/_uQrJ0TkZlc)
 
+- [Python Full Course for free 🐍] (https://www.youtube.com/watch?v=XKHEtdqhLK8)
+
 - [Learn Python - Full Course for Beginners [Tutorial] - FREE](https://youtu.be/rfscVS0vtbw)
 
 - [Automate the Boring Stuff with Python Programming - PAID - RECOMMENDED](https://www.udemy.com/course/automate/)
